@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Mahshid 👋
 
-<!--
-**mahshid/mahshid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer based in London. I like building useful web apps and small tools that make everyday things a little easier.
 
-Here are some ideas to get you started:
+### A few things I've built
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Mood Pixels](https://github.com/mahshid/mood-pixels)** — A mood tracker with a Year in Pixels view and AI-assisted check-ins.
+- **[TabSift](https://github.com/mahshid/tabsift)** — A browser extension for making tab overload easier to manage.
+- **[AI Commit Helper](https://github.com/mahshid/ai-commit-helper)** — A Codex plugin and MCP server that suggests commit messages from staged Git changes.
+
+I work across **TypeScript, React, Next.js, Alpine.js, PHP, and Laravel**, with **MySQL, MariaDB, PostgreSQL, Prisma, and Drizzle** on the data side.
+
+[Website](https://mahshid.uk) · [LinkedIn](https://www.linkedin.com/in/mahshid-hajyani/) · [Writing](https://mahshid-hajyani.medium.com/)
